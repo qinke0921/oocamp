@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.oobootcamp.ParkCarManagerTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2022-06-16T05:28:23" hostname="qinkes-MacBook-Pro.local" time="0.073">
+  <properties/>
+  <testcase name="should_pickup_correct_car_when_car_in_first_park()" classname="org.oobootcamp.ParkCarManagerTest" time="0.059"/>
+  <testcase name="should_park_in_second_and_get_ticket_when_first_is_full()" classname="org.oobootcamp.ParkCarManagerTest" time="0.004"/>
+  <testcase name="should_fail_when_depark_given_incorrect_ticket()" classname="org.oobootcamp.ParkCarManagerTest" time="0.002"/>
+  <testcase name="should_park_in_first_and_get_ticket_when_all_park_empty()" classname="org.oobootcamp.ParkCarManagerTest" time="0.001"/>
+  <testcase name="should_fail_and_notice_full_when_all_park_full()" classname="org.oobootcamp.ParkCarManagerTest" time="0.001"/>
+  <testcase name="should_fail_when_depark_given_used_ticket()" classname="org.oobootcamp.ParkCarManagerTest" time="0.001"/>
+  <testcase name="should_pickup_correct_car_when_car_in_second_park()" classname="org.oobootcamp.ParkCarManagerTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

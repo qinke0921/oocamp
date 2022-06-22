@@ -1,0 +1,22 @@
+
+# Tasking（Business-Oriented Tasking）
+### AC1：有空时能停车
+- Example
+    -  Given 有车来,有空位 When停车, Then 停车成功，返回停车票
+
+### AC2：没空位时不能停
+- Example
+    -  Given 有车来，没空位, When 停车, Then 停车失败，没有停车票
+
+### AC3：有停车票取车成功
+- Example
+    -  Given 有人来，有有效停车票, When 取车, Then 取车成功
+
+### AC4：没停车票取车失败
+- Example
+    -  Given 有人来，没有停车票, When 取车, Then 取车失败
+
+### AC5：无效停车票取车失败
+- Example
+    -  Given 有人来，有无效停车票, When 取车, Then 取车失败
+
