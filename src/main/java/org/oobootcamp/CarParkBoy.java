@@ -1,6 +1,6 @@
 package org.oobootcamp;
 
-public abstract class CarParkBoy {
+public abstract class CarParkBoy implements Parkability{
     protected final ParkLot[] parkLots;
 
 
